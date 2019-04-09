@@ -1,0 +1,1 @@
+enum ItemAction { addToCart, addtoWishList }

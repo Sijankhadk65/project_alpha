@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "394515748013",
+    "firebase_url": "https://project-alpha-7bed2.firebaseio.com",
+    "project_id": "project-alpha-7bed2",
+    "storage_bucket": "project-alpha-7bed2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:394515748013:android:352798333c44755c",
+        "android_client_info": {
+          "package_name": "www.nepaligurus.com.np.project_alpha_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "394515748013-bhcm6ofnmqsmjdmvt43ciubo7ujvtvv3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "www.nepaligurus.com.np.project_alpha_app",
+            "certificate_hash": "b5675713ee57d8a410c922c706df1cbe7dfb54c9"
+          }
+        },
+        {
+          "client_id": "394515748013-00cpdvuka7sji3umb011s5ln6k5dl2be.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-GfBICOzHhg_0yPtg9qE8jzZsyfdfm7k"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "394515748013-00cpdvuka7sji3umb011s5ln6k5dl2be.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
